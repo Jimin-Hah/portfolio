@@ -346,3 +346,41 @@ nav a:hover {
     color:#666;
 
 }
+/* =====================
+   CV PAGE
+===================== */
+
+.cv {
+    max-width: 900px;
+    margin: 100px auto;
+}
+
+.cv h2 {
+    font-size: 32px;
+    margin-bottom: 80px;
+}
+
+
+.cv-section {
+    margin-bottom: 70px;
+}
+
+
+.cv-section h3 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+
+.cv-item {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+
+.year {
+    color: #777;
+}
