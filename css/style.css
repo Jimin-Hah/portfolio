@@ -377,7 +377,7 @@ nav a:hover {
     display: grid;
     grid-template-columns: 100px 1fr;
     margin-bottom: 15px;
-    line-height: 1.6;
+    line-height: 1.8;
 }
 
 
