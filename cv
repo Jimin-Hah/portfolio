@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV | JIMIN HAH</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1><a href="index.html">JIMIN HAH</a></h1>
+
+    <nav>
+        <a href="works.html">Works</a>
+        <a href="cv.html">CV</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+
+<main class="cv">
+
+    <h2>CV</h2>
+
+
+    <!-- Education -->
+    <section class="cv-section">
+        <h3>Education</h3>
+
+        <div class="cv-item">
+            <p class="year">202X</p>
+            <p>
+                한국예술종합학교 조형예술과 비디오 전공 석사
+            </p>
+        </div>
+
+        <div class="cv-item">
+            <p class="year">202X</p>
+            <p>
+                학교명 / 전공
+            </p>
+        </div>
+
+    </section>
+
+
+
+    <!-- Performance -->
+    <section class="cv-section">
+
+        <h3>Performance</h3>
+
+        <div class="cv-item">
+            <p class="year">2025</p>
+            <p>
+                퍼포먼스 제목, 장소, 기관명
+            </p>
+        </div>
+
+        <div class="cv-item">
+            <p class="year">2024</p>
+            <p>
+                퍼포먼스 제목, 장소, 기관명
+            </p>
+        </div>
+
+    </section>
+
+
+
+    <!-- Group Exhibitions & Screenings -->
+    <section class="cv-section">
+
+        <h3>Group Exhibitions & Screenings</h3>
+
+        <div class="cv-item">
+            <p class="year">2025</p>
+            <p>
+                전시 제목, 전시장소, 도시, 국가
+            </p>
+        </div>
+
+
+        <div class="cv-item">
+            <p class="year">2024</p>
+            <p>
+                스크리닝 제목, 기관명, 도시, 국가
+            </p>
+        </div>
+
+    </section>
+
+
+
+    <!-- Collections -->
+    <section class="cv-section">
+
+        <h3>Collections</h3>
+
+        <div class="cv-item">
+            <p class="year">2025</p>
+            <p>
+                기관명 / 작품명
+            </p>
+        </div>
+
+    </section>
+
+
+
+    <!-- Awards -->
+    <section class="cv-section">
+
+        <h3>Awards</h3>
+
+        <div class="cv-item">
+            <p class="year">2025</p>
+            <p>
+                수상명, 기관명
+            </p>
+        </div>
+
+    </section>
+
+
+
+    <!-- Participation -->
+    <section class="cv-section">
+
+        <h3>Participation</h3>
+
+        <div class="cv-item">
+            <p class="year">2025</p>
+            <p>
+                프로그램명, 프로젝트명, 기관명
+            </p>
+        </div>
+
+    </section>
+
+
+</main>
+
+
+<footer>
+    <p>© JIMIN HAH</p>
+</footer>
+
+
+</body>
+</html>
