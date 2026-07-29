@@ -384,3 +384,31 @@ nav a:hover {
 .year {
     color: #777;
 }
+
+.cover{
+
+    cursor:pointer;
+
+}
+
+.details{
+
+    display:none;
+
+    margin-top:40px;
+
+}
+
+.details.open{
+
+    display:block;
+
+}
+
+.details img{
+
+    width:100%;
+
+    margin:40px 0;
+
+}
