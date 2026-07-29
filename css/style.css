@@ -454,7 +454,7 @@ nav a:hover {
 
 .description{
 
-    width:100%;
+    max-width:900px;
 
     line-height:1.8;
 
