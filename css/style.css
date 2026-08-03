@@ -316,41 +316,6 @@ nav a:hover {
     color:#666;
 
 }
-/* =====================
-   CV PAGE
-===================== */
-
-.cv {
-    max-width: 900px;
-    margin: 100px auto;
-}
-
-.cv h2 {
-    font-size: 32px;
-    margin-bottom: 80px;
-}
-
-
-.cv-section {
-    margin-bottom: 70px;
-}
-
-
-.cv-section h3 {
-    font-size: 15px;
-    font-weight: normal;
-    margin-bottom: 30px;
-}
-
-
-.cv-item {
-    display: grid;
-    grid-template-columns: 100px 1fr;
-    margin-bottom: 15px;
-    line-height: 1.8;
-}
-
-
 
 
 .cover{
@@ -510,33 +475,54 @@ nav a:hover {
 }
 
 
-/* ==========================
-   CV
-========================== */
+/* =====================
+   CV PAGE
+===================== */
 
-.cv {
+.cv{
 
-    max-width: 760px;
-
-}
-
-.cv section {
-
-    margin-bottom: 60px;
+    max-width:900px;
+    margin:100px auto;
 
 }
 
-.cv h2 {
+.cv h2{
 
-    font-size: 20px;
-    font-weight: 500;
+    font-size:32px;
+    font-weight:500;
 
-    margin-bottom: 18px;
+    margin-bottom:80px;
 
 }
 
-.cv p {
+.cv-section{
 
-    margin-bottom: 10px;
+    margin-bottom:70px;
+
+}
+
+.cv-section h3{
+
+    font-size:15px;
+    font-weight:400;
+
+    margin-bottom:30px;
+
+}
+
+.cv-item{
+
+    display:grid;
+    grid-template-columns:100px 1fr;
+
+    margin-bottom:15px;
+
+    line-height:1.8;
+
+}
+
+.cv p{
+
+    margin-bottom:10px;
 
 }
